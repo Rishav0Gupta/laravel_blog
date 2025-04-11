@@ -19,3 +19,8 @@ if ($uri !== '/' && file_exists(__DIR__.'/public'.$uri)) {
 }
 
 require_once __DIR__.'/public/index.php';
+
+// This file is part of the Laravel framework.
+// (c) Laravel LLC <https://laravel.com>
+//
+// For the full copyright and license information, please view the LICENSE
